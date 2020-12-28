@@ -7,6 +7,6 @@
  ### Q-5 : Cosine Similarity
 
 By:
-Aishawariya Athawale
-Pankti Fadia
+Aishawariya Athawale,
+Pankti Fadia,
 Hetvi Julasana
